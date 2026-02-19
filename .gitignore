@@ -1,0 +1,18 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Terraform crash logs
+crash.log
+
+# Mac
+.DS_Store
+
+# Python / node (optional)
+node_modules/
+__pycache__/
+
+.terraform/
+terraform/.terraform/
